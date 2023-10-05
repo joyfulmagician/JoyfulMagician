@@ -4,7 +4,7 @@
   <img src="/assets/gif/bg.gif" width="75%">
 </div>
 
-<p align="center">Hello everyone, my name is Javad Ebrahimpour Bura and I'm from Babol, Iran. I am an inventor and electronic engineer with more than 10 years of experience in circuit design and hardware programming. Over the years, I have successfully led various challenging projects to completion, leveraging my innovative mindset and technical skills. In addition to my expertise in electronics, I have also been involved in designing and developing different types of software for around 5 years.</p>
+<p align="center">Hello, I'm an accomplished Full Stack Developer with a wealth of experience spanning eight years, specializing in both frontend and backend development. Throughout my career, I've consistently demonstrated a commitment to excellence by delivering exceptional web solutions that seamlessly blend form and function. On the frontend, I've honed my skills in designing captivating user interfaces, ensuring a superb user experience across various platforms. My proficiency extends to modern JavaScript frameworks such as React, Angular, and Vue.js. On the backend, I excel in architecting scalable and efficient server-side systems, leveraging technologies like Node.js, Python (Django and Flask), Ruby on Rails, and Java. My dedication to staying at the forefront of technological advancements, coupled with my robust project management and communication skills, make me a versatile asset in the ever-evolving world of web development. I am driven by a passion for problem-solving and innovation, always striving to create digital experiences that leave a lasting impact.</p>
 
 <!---
 ![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
@@ -200,15 +200,15 @@
 ### Contact Me
 
 <div align="center">
-<a href="https://www.jepbura.ir" target="_blank"><img src ="/assets/images/web.png" alt="jepbura logo" width="5%" title='www.jepbura.ir'/></a>
-<a href="https://www.bura.dev" target="_blank"><img src ="/assets/images/web.png" alt="bura logo" width="5%" title='www.bura.dev'/></a>
-<a href="https://www.facebook.com/jepbura" target="_blank"><img src ="/assets/images/facebook.png" alt="facebook logo" width="5%" title='Facebook'/></a>
+<!-- <a href="https://www.jepbura.ir" target="_blank"><img src ="/assets/images/web.png" alt="jepbura logo" width="5%" title='www.jepbura.ir'/></a> -->
+<!-- <a href="https://www.bura.dev" target="_blank"><img src ="/assets/images/web.png" alt="bura logo" width="5%" title='www.bura.dev'/></a> -->
+<!-- <a href="https://www.facebook.com/jepbura" target="_blank"><img src ="/assets/images/facebook.png" alt="facebook logo" width="5%" title='Facebook'/></a>
 <a href="https://www.instagram.com/jepbura" target="_blank"><img src ="/assets/images/instagram.png" alt="instagram logo" width="5%" title='Instagram'/></a>
-<a href="https://www.linkedin.com/in/jepbura" target="_blank"><img src ="/assets/images/linkedin.png" alt="linkedin logo" width="5%" title='Linkedin'/></a>
-<a href="https://twitter.com/jepbura" target="_blank"><img src ="/assets/images/twitter.svg" alt="twitter logo" width="5%" title='Twitter'/></a>
-<a href="https://t.me/jepbura" target="_blank"><img src ="/assets/images/telegram.png" alt="telegram logo" width="5%" title='Telegram'/></a>
-<a href="https://t.me/Buradev_Bot" target="_blank"><img src ="/assets/images/bot.png" alt="telegram bot logo" width="5%" title='Telegram Bot'/></a>
-<a href="https://youtube.com/@jepbura" target="_blank"><img src ="/assets/images/youtube.svg" alt="youtube logo" width="5%" title='Youtube'/></a>
+<a href="https://www.linkedin.com/in/jepbura" target="_blank"><img src ="/assets/images/linkedin.png" alt="linkedin logo" width="5%" title='Linkedin'/></a> -->
+<!-- <a href="https://twitter.com/jepbura" target="_blank"><img src ="/assets/images/twitter.svg" alt="twitter logo" width="5%" title='Twitter'/></a> -->
+<a href="https://t.me/joyfulmagician" target="_blank"><img src ="/assets/images/telegram.png" alt="telegram logo" width="5%" title='Telegram'/></a>
+<!-- <a href="https://t.me/Buradev_Bot" target="_blank"><img src ="/assets/images/bot.png" alt="telegram bot logo" width="5%" title='Telegram Bot'/></a> -->
+<!-- <a href="https://youtube.com/@jepbura" target="_blank"><img src ="/assets/images/youtube.svg" alt="youtube logo" width="5%" title='Youtube'/></a> -->
 </div>
   
 <!---
