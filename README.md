@@ -168,7 +168,7 @@
 </div>
 <div align="center">
     <a href="https://github.com/jepbura">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jepbura&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jepbura&theme=slateorange&custom_title=joyfulmagician's%20Github%20Stats" />
   </a>
 </div>
 <!-- <div align="center">
@@ -191,7 +191,7 @@
 </div>
 
 <div align="center">
-  <h2>#Gi_Ba_Vene_Dele</h2>
+  <h2>Joyful Magician</h2>
 
   <img src="/assets/gif/p.gif">
 </div>
