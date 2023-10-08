@@ -168,7 +168,7 @@
 </div>
 <div align="center">
     <a href="https://github.com/jepbura">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jepbura&theme=slateorange&custom_title=joyfulmagician's%20Github%20Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jakearchibald&count_private=true&show_icons=true&include_all_commits=true&custom_title=joyfulmagician's%20Github%20Stats" />
   </a>
 </div>
 <!-- <div align="center">
