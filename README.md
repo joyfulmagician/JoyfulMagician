@@ -155,7 +155,6 @@
   <img src ="/assets/images/eslint.svg" alt="ESLint logo" width="5%" title='ESLint'/>
   <img src ="/assets/images/nodemon.svg" alt="Nodemon logo" width="5%" title='Nodemon'/> 
   <img src ="/assets/images/anaconda.png" alt="Anaconda logo" width="6%" title='Anaconda'/>
-  <img src ="/assets/images/machineLearning.png" alt="MachineLearning logo" width="13%" title='Machine learning'/>
-  <img src ="/assets/images/opencv.png" alt="Opencv logo" width="10%" title='Opencv'/> -->
+ -->
   
 </div>
