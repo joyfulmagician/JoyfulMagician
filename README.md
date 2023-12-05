@@ -160,43 +160,6 @@
   
 </div>
 
-<div align="center" style="display: flex; flex-direction: column; align-item:center; justify-content: center;">
-  <h2>GitHub Analytics</h2>
-<br/>
-<div align="center">
-  <a href="https://u8views.com/github/jepbura"><img src="https://u8views.com/api/v1/github/profiles/25738325/views/day-week-month-total-count.svg"/>
-</div>
-<div align="center">
-    <a href="https://github.com/jepbura">
-    <img src="https://github-readme-stats.vercel.app/api?username=jakearchibald&count_private=true&show_icons=true&include_all_commits=true&custom_title=joyfulmagician's%20Github%20Stats" />
-  </a>
-</div>
-<!-- <div align="center">
-      <a href="https://github.com/jepbura">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=jepbura&theme=rising-sun&hide_border=true&exclude_days=Sun" />
-  </a>
-    </div>
-    <div align="center">
-  <a href="https://github.com/jepbura">
-    <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jepbura&theme=slateorange" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepbura&layout=compact&langs_count=7&theme=slateorange"/>
-  </a>
-</div> -->
-<!--         <a href="https://github.com/jepbura">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jepbura&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepbura&layout=compact&langs_count=7&theme=algolia"/>
-        <p>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jepbura&theme=algolia" alt="jepbura" />
-        </p> -->
-</div>
-
-<div align="center">
-  <h2>Joyful Magician</h2>
-
-  <img src="/assets/gif/p.gif">
-</div>
-<!-- ![](/assets/gif/p.gif) -->
-
 ### Contact Me
 
 <div align="center">
