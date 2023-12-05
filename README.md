@@ -159,28 +159,3 @@
   <img src ="/assets/images/opencv.png" alt="Opencv logo" width="10%" title='Opencv'/> -->
   
 </div>
-
-### Contact Me
-
-<div align="center">
-<!-- <a href="https://www.jepbura.ir" target="_blank"><img src ="/assets/images/web.png" alt="jepbura logo" width="5%" title='www.jepbura.ir'/></a> -->
-<!-- <a href="https://www.bura.dev" target="_blank"><img src ="/assets/images/web.png" alt="bura logo" width="5%" title='www.bura.dev'/></a> -->
-<!-- <a href="https://www.facebook.com/jepbura" target="_blank"><img src ="/assets/images/facebook.png" alt="facebook logo" width="5%" title='Facebook'/></a>
-<a href="https://www.instagram.com/jepbura" target="_blank"><img src ="/assets/images/instagram.png" alt="instagram logo" width="5%" title='Instagram'/></a>
-<a href="https://www.linkedin.com/in/jepbura" target="_blank"><img src ="/assets/images/linkedin.png" alt="linkedin logo" width="5%" title='Linkedin'/></a> -->
-<!-- <a href="https://twitter.com/jepbura" target="_blank"><img src ="/assets/images/twitter.svg" alt="twitter logo" width="5%" title='Twitter'/></a> -->
-<a href="https://gmail.com" target="_blank"><img src ="/assets/images/email.png" alt="email logo" width="5%" title='email'/></a>
-<a href="https://t.me/joyfulmagician" target="_blank"><img src ="/assets/images/telegram.png" alt="telegram logo" width="5%" title='Telegram'/></a>
-<a href="https://join.skype.com/invite/vwSeOO438OhL" target="_blank"><img src ="/assets/images/skype.png" alt="skype logo" width="5%" title='skype'/></a>
-<a href="https://discord.com" target="_blank"><img src ="/assets/images/discord.png" alt="telegram logo" width="5%" title='discord'/></a>
-<!-- <a href="https://t.me/Buradev_Bot" target="_blank"><img src ="/assets/images/bot.png" alt="telegram bot logo" width="5%" title='Telegram Bot'/></a> -->
-<!-- <a href="https://youtube.com/@jepbura" target="_blank"><img src ="/assets/images/youtube.svg" alt="youtube logo" width="5%" title='Youtube'/></a> -->
-</div>
-  
-<!---
-- [Website](https://www.jepbura.ir "www.jepbura.ir")
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jepbura&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
---->
