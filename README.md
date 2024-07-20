@@ -4,7 +4,22 @@
   <img src="/assets/gif/bg.gif" width="75%">
 </div>
 
-<p align="justify">Hello, I'm an accomplished Full Stack Developer with a wealth of experience spanning eight years, especially in frontend. On the frontend, I've honed my skills in designing captivating user interfaces, ensuring a superb user experience across various platforms. My proficiency extends to modern JavaScript frameworks such as React, Angular, and Vue.js. On the backend, I excel in architecting scalable and efficient server-side systems, leveraging technologies like Node.js, Python (Django and Flask), Ruby on Rails, and Java. I am driven by a passion for problem-solving and innovation, always striving to create digital experiences that leave a lasting impact.</p>
+<p align="justify">
+👋 Hi there!
+
+🚀 Full Stack & Web3.0 Developer | Blockchain Enthusiast | Open Source Contributor
+
+🔧 Tech Stack: JavaScript, TypeScript, React, Node.js, Express, MongoDB, PostgreSQL, Solidity, Ethereum, IPFS
+
+🌟 Passionate about building scalable web applications and decentralized solutions. I thrive on turning complex problems into elegant and efficient code.
+
+💡 Innovating at the intersection of traditional web development and cutting-edge blockchain technology. I believe in the transformative power of decentralization and aim to contribute to the future of the web.
+
+🛠️ Current Projects:
+
+    Developing DApps with Ethereum and Solidity
+    Exploring Layer 2 scaling solutions
+    Contributing to open source blockchain projects.</p>
 
 <!---
 ![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
