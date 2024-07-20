@@ -19,7 +19,7 @@
 
     Developing DApps with Ethereum and Solidity
     Exploring Layer 2 scaling solutions
-    Contributing to open source blockchain projects.</p>
+    Contributing to open source blockchain projects.
 
 <!---
 ![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
