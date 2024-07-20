@@ -9,7 +9,7 @@
 
 🚀 Full Stack & Web3.0 Developer | Blockchain Enthusiast | Open Source Contributor
 
-🔧 Tech Stack: JavaScript, TypeScript, React, Node.js, Express, MongoDB, PostgreSQL, Solidity, Ethereum, IPFS
+🔧 Tech Stack: JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, PostgreSQL, Solidity, Ethereum, IPFS
 
 🌟 Passionate about building scalable web applications and decentralized solutions. I thrive on turning complex problems into elegant and efficient code.
 
@@ -19,7 +19,7 @@
 
     Developing DApps with Ethereum and Solidity
     Exploring Layer 2 scaling solutions
-    Contributing to open source blockchain projects.
+    Contributing to open source blockchain projects
 
 <!---
 ![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
