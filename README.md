@@ -9,7 +9,7 @@
 
 🚀 Full Stack & Web3.0 Developer | Blockchain Enthusiast | Open Source Contributor
 
-🔧 Tech Stack: JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, PostgreSQL, Solidity, Ethereum, IPFS
+🔧 Tech Stack: JavaScript, TypeScript, React, Next.js, Vue.js, Nuxt.js, Node.js, Express, MongoDB, PostgreSQL, Solidity, Ethereum, IPFS
 
 🌟 Passionate about building scalable web applications and decentralized solutions. I thrive on turning complex problems into elegant and efficient code.
 
